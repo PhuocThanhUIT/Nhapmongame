@@ -1,0 +1,24 @@
+﻿  Animation.cpp
+  Animations.cpp
+  Brick.cpp
+  Coin.cpp
+  Collision.cpp
+  debug.cpp
+  Game.cpp
+  GameObject.cpp
+  Goomba.cpp
+  main.cpp
+  Mario.cpp
+  Platform.cpp
+  PlayScene.cpp
+D:\Documents\Nhapmongame\05-SceneManager\PlayScene.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Nhapmongame\05-SceneManager\PlayScene.cpp(270,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Nhapmongame\05-SceneManager\PlayScene.cpp(295,20): warning C4018: '<': signed/unsigned mismatch
+  Portal.cpp
+  SampleKeyEventHandler.cpp
+  Sprite.cpp
+  Sprites.cpp
+  Textures.cpp
+  Utils.cpp
+  Generating Code...
+  05-SceneManager.vcxproj -> D:\Documents\Nhapmongame\Debug\05-SceneManager.exe
